@@ -1,2 +1,2 @@
-# Samurai-Attack
-Hyper Casual / Mobile Game
+# Samurai.2D
+mobile game
